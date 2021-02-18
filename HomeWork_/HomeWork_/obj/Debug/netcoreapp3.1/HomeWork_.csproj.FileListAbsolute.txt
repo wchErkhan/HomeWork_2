@@ -1,0 +1,13 @@
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\bin\Debug\netcoreapp3.1\HomeWork_.exe
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\bin\Debug\netcoreapp3.1\HomeWork_.deps.json
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\bin\Debug\netcoreapp3.1\HomeWork_.runtimeconfig.json
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\bin\Debug\netcoreapp3.1\HomeWork_.runtimeconfig.dev.json
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\bin\Debug\netcoreapp3.1\HomeWork_.dll
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\bin\Debug\netcoreapp3.1\HomeWork_.pdb
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\obj\Debug\netcoreapp3.1\HomeWork_.csprojAssemblyReference.cache
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\obj\Debug\netcoreapp3.1\HomeWork_.csproj.CoreCompileInputs.cache
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\obj\Debug\netcoreapp3.1\HomeWork_.AssemblyInfoInputs.cache
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\obj\Debug\netcoreapp3.1\HomeWork_.AssemblyInfo.cs
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\obj\Debug\netcoreapp3.1\HomeWork_.dll
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\obj\Debug\netcoreapp3.1\HomeWork_.pdb
+C:\Users\Ерхан\source\repos\HomeWork_\HomeWork_\obj\Debug\netcoreapp3.1\HomeWork_.genruntimeconfig.cache
